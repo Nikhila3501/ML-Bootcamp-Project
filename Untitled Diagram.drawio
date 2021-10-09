@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T11:07:36.557Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="rVI0CwmorIghX0A-1kjz" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-09T18:46:44.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="XesgzClH5jQHU1X0q1_T" version="15.4.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1040" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1224" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -13,7 +13,7 @@
         <mxCell id="O2UF7IChX4cqMfmPYLJX-20" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O2UF7IChX4cqMfmPYLJX-11" target="O2UF7IChX4cqMfmPYLJX-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O2UF7IChX4cqMfmPYLJX-11" value="User should install the application on smartphone" style="whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="O2UF7IChX4cqMfmPYLJX-11" value="User should install the application on smart devices" style="whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="228.5" y="170" width="257" height="90" as="geometry" />
         </mxCell>
         <mxCell id="O2UF7IChX4cqMfmPYLJX-22" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O2UF7IChX4cqMfmPYLJX-19" target="O2UF7IChX4cqMfmPYLJX-21">
@@ -40,8 +40,35 @@
         <mxCell id="O2UF7IChX4cqMfmPYLJX-26" value="&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;YES&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="420" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O2UF7IChX4cqMfmPYLJX-27" value="Start collecting user input" style="whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="265.5" y="585" width="183" height="60" as="geometry" />
+        <mxCell id="O2UF7IChX4cqMfmPYLJX-30" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O2UF7IChX4cqMfmPYLJX-27" target="O2UF7IChX4cqMfmPYLJX-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O2UF7IChX4cqMfmPYLJX-27" value="Smart devices detect signal via Bluetooth" style="whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="241.38" y="590" width="231.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O2UF7IChX4cqMfmPYLJX-33" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O2UF7IChX4cqMfmPYLJX-29" target="O2UF7IChX4cqMfmPYLJX-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O2UF7IChX4cqMfmPYLJX-29" value="Signal gives ID number to smart devices&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="256" y="720" width="200.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="O2UF7IChX4cqMfmPYLJX-35" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O2UF7IChX4cqMfmPYLJX-32" target="O2UF7IChX4cqMfmPYLJX-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O2UF7IChX4cqMfmPYLJX-32" value="Smart devices sends ID number&lt;br&gt;to local server&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="239.06" y="860" width="234.38" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="O2UF7IChX4cqMfmPYLJX-37" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O2UF7IChX4cqMfmPYLJX-34" target="O2UF7IChX4cqMfmPYLJX-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O2UF7IChX4cqMfmPYLJX-34" value="Beacons give alert signal when we pass by our surrounding" style="whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="247.01" y="1000" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="O2UF7IChX4cqMfmPYLJX-36" value="In" style="whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="297.01" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O2UF7IChX4cqMfmPYLJX-38" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="30" width="750" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
